@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://pericineu.github.io/sitemap.html.gz
+Sitemap: https://pericineu.github.io/app/sitemap.html.gz
+Sitemap: https://pericineu.github.io/assets/sitemap.html.gz
+Sitemap: https://pericineu.github.io/css/sitemap.html.gz
+Sitemap: https://pericineu.github.io/data/sitemap.html.gz
+Sitemap: https://pericineu.github.io/includes/sitemap.html.gz
+Sitemap: https://pericineu.github.io/item/sitemap.html.gz
+Sitemap: https://pericineu.github.io/src/sitemap.html.gz
